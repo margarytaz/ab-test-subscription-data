@@ -1,0 +1,601 @@
+user_pseudo_id,category,country,subscription_start,subscription_end,subscription_duration_days,day_type,region
+1099668.06247119,desktop,United States,11/4/2020,1/12/2021,69,Weekday,North America
+1136556.02250123,mobile,Peru,11/2/2020,12/24/2020,52,Weekday,South America
+1271863.73716009,mobile,India,11/7/2020,12/13/2020,36,Weekend,Asia
+1014060.11001915,desktop,United States,11/3/2020,1/22/2021,80,Weekday,North America
+1828432.16924254,desktop,United States,11/13/2020,12/20/2020,37,Weekday,North America
+1433392.61975416,desktop,United States,11/10/2020,1/31/2021,82,Weekday,North America
+1168515.23127037,mobile,United States,11/3/2020,12/21/2020,48,Weekday,North America
+1595680.65166163,desktop,India,11/15/2020,1/7/2021,53,Weekend,Asia
+1550859.56050021,desktop,Canada,11/1/2020,12/30/2020,59,Weekend,North America
+2213964.41757668,desktop,United States,11/15/2020,1/11/2021,57,Weekend,North America
+1830871.77953043,mobile,United States,11/14/2020,1/22/2021,69,Weekend,North America
+1329077.87249677,desktop,United States,11/11/2020,12/19/2020,38,Weekday,North America
+1240926.12309979,desktop,United States,11/18/2020,1/1/2021,44,Weekday,North America
+1569222.72289844,mobile,Slovakia,11/21/2020,1/25/2021,65,Weekend,Europe
+2312968.67459758,desktop,United Kingdom,11/22/2020,1/9/2021,48,Weekend,Europe
+1048273.38553554,desktop,United Kingdom,11/4/2020,1/21/2021,78,Weekday,Europe
+2220756.16796200,desktop,United States,11/11/2020,2/12/2021,93,Weekday,North America
+1766215.65761673,mobile,India,11/11/2020,12/17/2020,36,Weekday,Asia
+2145702.33464559,mobile,United States,11/13/2020,1/10/2021,58,Weekday,North America
+1163883.99297268,desktop,India,11/19/2020,12/25/2020,36,Weekday,Asia
+1814237.71524140,desktop,United States,11/26/2020,2/9/2021,75,Weekday,North America
+1134387.56586616,mobile,United Kingdom,11/4/2020,12/22/2020,48,Weekday,Europe
+1018077.60713616,desktop,United States,11/22/2020,1/30/2021,69,Weekend,North America
+1498451.13826036,mobile,China,11/26/2020,12/28/2020,32,Weekday,Asia
+1005694.58343484,desktop,India,11/7/2020,12/3/2020,26,Weekend,Asia
+2310041.38086283,mobile,Austria,11/14/2020,1/8/2021,55,Weekend,Europe
+1013442.50003876,mobile,United States,11/1/2020,11/4/2020,3,Weekend,North America
+1709610.92483639,desktop,Turkey,11/12/2020,1/4/2021,53,Weekday,Middle East
+2330556.94746062,desktop,Indonesia,11/29/2020,2/15/2021,78,Weekend,Asia
+1014271.47473206,desktop,United Kingdom,11/4/2020,1/6/2021,63,Weekday,Europe
+2068420.33552570,mobile,Canada,11/21/2020,2/12/2021,83,Weekend,North America
+2300890.77917010,mobile,Belarus,11/29/2020,2/2/2021,65,Weekend,Europe
+2211097.81866056,desktop,Belgium,11/26/2020,1/11/2021,46,Weekday,Europe
+1019516.65572212,desktop,Canada,11/5/2020,1/4/2021,60,Weekday,North America
+1104932.40204479,desktop,Australia,11/15/2020,1/13/2021,59,Weekend,Oceania
+2193359.48662175,mobile,United States,11/25/2020,12/8/2020,13,Weekday,North America
+2490870.25320544,mobile,United States,11/23/2020,12/19/2020,26,Weekday,North America
+1456886.27215915,desktop,Brazil,11/12/2020,12/30/2020,48,Weekday,South America
+2308925.44673588,desktop,United States,11/27/2020,12/16/2020,19,Weekday,North America
+1484942.99076780,desktop,Mexico,11/26/2020,1/25/2021,60,Weekday,North America
+1485850.59043119,desktop,United Kingdom,11/28/2020,1/22/2021,55,Weekend,Europe
+1590652.67261497,desktop,United States,12/4/2020,12/30/2020,26,Weekday,North America
+1724436.93492748,mobile,India,12/1/2020,1/23/2021,53,Weekday,Asia
+1142826.61319933,mobile,Canada,11/2/2020,12/31/2020,59,Weekday,North America
+1478811.55639093,desktop,United States,11/9/2020,1/12/2021,64,Weekday,North America
+1077731.36178008,mobile,India,11/17/2020,12/25/2020,38,Weekday,Asia
+1490250.32715156,desktop,India,11/22/2020,2/1/2021,71,Weekend,Asia
+1118506.80876635,mobile,United States,12/2/2020,1/29/2021,58,Weekday,North America
+1518727.61618945,desktop,Italy,12/4/2020,2/8/2021,66,Weekday,Europe
+1151520.43870247,desktop,Canada,11/2/2020,12/15/2020,43,Weekday,North America
+1156447.25239520,mobile,United States,11/5/2020,12/25/2020,50,Weekday,North America
+1200331.62790227,desktop,Australia,11/10/2020,2/1/2021,83,Weekday,Oceania
+1092411.82009343,mobile,India,11/20/2020,12/23/2020,33,Weekday,Asia
+1520710.19915401,mobile,United States,11/24/2020,2/18/2021,86,Weekday,North America
+1169437.55322133,desktop,United States,11/8/2020,12/27/2020,49,Weekend,North America
+1248439.86434138,desktop,India,11/11/2020,1/10/2021,60,Weekday,Asia
+1097746.08650147,desktop,United States,11/18/2020,1/3/2021,46,Weekday,North America
+1537484.15855716,desktop,Canada,11/26/2020,1/29/2021,64,Weekday,North America
+1180921.16584354,desktop,Portugal,11/3/2020,11/28/2020,25,Weekday,Europe
+1296227.37154175,desktop,United States,11/11/2020,12/30/2020,49,Weekday,North America
+1103734.14637173,desktop,United States,11/22/2020,12/30/2020,38,Weekend,North America
+1545622.85286599,mobile,United States,11/27/2020,1/13/2021,47,Weekday,North America
+1554067.67599152,desktop,Taiwan,11/27/2020,2/14/2021,79,Weekday,Asia
+1132393.42501961,mobile,United States,11/16/2020,1/12/2021,57,Weekday,North America
+1561271.71821181,mobile,China,11/23/2020,2/10/2021,79,Weekday,Asia
+1641158.53574820,mobile,United States,12/1/2020,2/24/2021,85,Weekday,North America
+1452937.81873019,mobile,United States,11/1/2020,12/21/2020,50,Weekend,North America
+1734629.48527236,desktop,Ireland,11/10/2020,12/24/2020,44,Weekday,Europe
+1134454.96543767,desktop,Brazil,11/19/2020,1/21/2021,63,Weekday,South America
+1575436.58152209,mobile,Finland,11/28/2020,1/15/2021,48,Weekend,Europe
+1577255.51046644,desktop,Philippines,11/29/2020,1/14/2021,46,Weekend,Asia
+1577832.19635695,desktop,Argentina,11/29/2020,1/31/2021,63,Weekend,South America
+1145919.80231472,mobile,United States,12/6/2020,1/7/2021,32,Weekend,North America
+1019755.15059904,desktop,United States,12/13/2020,2/2/2021,51,Weekend,North America
+1030532.88008665,desktop,United States,12/12/2020,1/27/2021,46,Weekend,North America
+1039112.58538820,mobile,Serbia,12/13/2020,12/29/2020,16,Weekend,Europe
+1085207.38077827,mobile,Uruguay,12/10/2020,1/26/2021,47,Weekday,South America
+1459546.63152638,mobile,United States,11/1/2020,12/27/2020,56,Weekend,North America
+1741035.70944220,mobile,United States,11/10/2020,1/4/2021,55,Weekday,North America
+1139355.36966494,mobile,United States,11/19/2020,1/19/2021,61,Weekday,North America
+1156590.00812772,desktop,Germany,11/18/2020,1/23/2021,66,Weekday,Europe
+1599456.17894522,desktop,United States,11/27/2020,1/15/2021,49,Weekday,North America
+1609407.15506880,desktop,Chile,11/28/2020,2/12/2021,76,Weekend,South America
+1630763.63991059,desktop,United Kingdom,11/29/2020,12/31/2020,32,Weekend,Europe
+1668813.76121054,mobile,United States,11/25/2020,12/21/2020,26,Weekday,North America
+1676676.77621821,desktop,India,11/28/2020,1/7/2021,40,Weekend,Asia
+1682325.29131099,desktop,United States,11/22/2020,2/11/2021,81,Weekend,North America
+1404771.18602412,mobile,United States,12/2/2020,2/3/2021,63,Weekday,North America
+1456690.82712862,desktop,United States,12/11/2020,2/18/2021,69,Weekday,North America
+1463692.68912948,mobile,Germany,11/1/2020,1/6/2021,66,Weekend,Europe
+1510286.75505678,mobile,United States,11/8/2020,12/5/2020,27,Weekend,North America
+1758086.87685069,mobile,United States,11/9/2020,12/30/2020,51,Weekday,North America
+1159522.02807213,mobile,United States,11/21/2020,1/2/2021,42,Weekend,North America
+1683058.22270743,mobile,Taiwan,11/23/2020,1/23/2021,61,Weekday,Asia
+1020085.40980491,mobile,Macao,12/3/2020,1/14/2021,42,Weekday,Asia
+1665847.23083289,desktop,United States,12/7/2020,1/28/2021,52,Weekday,North America
+1827510.17160282,desktop,United States,12/12/2020,2/20/2021,70,Weekend,North America
+1474295.16039114,desktop,United States,11/5/2020,1/21/2021,77,Weekday,North America
+1511634.45565167,mobile,United States,11/1/2020,12/2/2020,31,Weekend,North America
+1778202.59673285,desktop,India,11/12/2020,1/9/2021,58,Weekday,Asia
+1166336.87625184,desktop,South Africa,11/19/2020,12/27/2020,38,Weekday,Africa
+1683979.99226651,mobile,United States,11/27/2020,12/5/2020,8,Weekday,North America
+1027505.65024040,desktop,Slovakia,11/29/2020,2/1/2021,64,Weekend,Europe
+1438269.21615270,desktop,Croatia,12/7/2020,2/17/2021,72,Weekday,Europe
+1891607.63240769,desktop,United States,12/13/2020,2/16/2021,65,Weekend,North America
+1479672.51338537,mobile,United States,11/3/2020,11/9/2020,6,Weekday,North America
+1184762.85865066,desktop,United States,11/15/2020,1/6/2021,52,Weekend,North America
+1684993.15608720,desktop,United States,11/24/2020,12/9/2020,15,Weekday,North America
+1037270.65356310,desktop,Canada,12/5/2020,3/2/2021,87,Weekend,North America
+1539940.52536104,mobile,Canada,12/7/2020,12/30/2020,23,Weekday,North America
+1484033.11839902,desktop,United States,11/1/2020,1/25/2021,85,Weekend,North America
+1767608.52938329,desktop,Costa Rica,11/28/2020,2/14/2021,78,Weekend,Central America
+1055118.84015255,mobile,Canada,12/3/2020,12/29/2020,26,Weekday,North America
+1055763.85042620,desktop,India,11/30/2020,1/6/2021,37,Weekday,Asia
+1297430.74191123,mobile,United States,12/16/2020,2/6/2021,52,Weekday,North America
+1181275.47827529,mobile,India,11/2/2020,11/30/2020,28,Weekday,Asia
+1303239.60771808,desktop,Ireland,11/5/2020,1/6/2021,62,Weekday,Europe
+1529761.00493885,mobile,China,11/4/2020,12/9/2020,35,Weekday,Asia
+1421531.27261425,desktop,Chile,11/4/2020,11/28/2020,24,Weekday,South America
+1025449.05838584,desktop,Spain,11/7/2020,11/22/2020,15,Weekend,Europe
+1264630.48370884,desktop,Canada,11/7/2020,1/10/2021,64,Weekend,North America
+1021793.73818390,mobile,United States,11/2/2020,12/5/2020,33,Weekday,North America
+1038168.37931307,desktop,United States,11/5/2020,12/23/2020,48,Weekday,North America
+1041501.64234223,desktop,United States,11/4/2020,1/16/2021,73,Weekday,North America
+1055429.25396661,desktop,United States,11/4/2020,1/26/2021,83,Weekday,North America
+1059048.10978528,desktop,India,11/2/2020,12/26/2020,54,Weekday,Asia
+1061353.24013124,desktop,Japan,11/4/2020,12/27/2020,53,Weekday,Asia
+1068962.24223197,desktop,Turkey,11/4/2020,1/13/2021,70,Weekday,Middle East
+1076509.68960492,desktop,United States,11/3/2020,12/5/2020,32,Weekday,North America
+1083435.57862854,desktop,United States,11/4/2020,1/7/2021,64,Weekday,North America
+1120828.74503519,mobile,Italy,11/3/2020,12/29/2020,56,Weekday,Europe
+1124403.86206280,desktop,United States,11/1/2020,1/13/2021,73,Weekend,North America
+1127534.63742723,desktop,United States,11/2/2020,11/23/2020,21,Weekday,North America
+1131277.23237995,mobile,Canada,11/4/2020,12/3/2020,29,Weekday,North America
+1131911.14955913,mobile,United States,11/7/2020,12/4/2020,27,Weekend,North America
+1133103.25996266,desktop,United States,11/7/2020,1/7/2021,61,Weekend,North America
+1181621.90183010,desktop,India,11/5/2020,1/13/2021,69,Weekday,Asia
+1192565.36349372,desktop,India,11/2/2020,1/30/2021,89,Weekday,Asia
+1200411.35061867,desktop,United States,11/1/2020,12/21/2020,50,Weekend,North America
+1202440.23322765,desktop,Canada,11/5/2020,12/25/2020,50,Weekday,North America
+1210485.82973515,desktop,Poland,11/2/2020,1/23/2021,82,Weekday,Europe
+1213541.17250439,desktop,United Kingdom,11/5/2020,1/9/2021,65,Weekday,Europe
+1239328.59968158,desktop,Turkey,11/5/2020,1/29/2021,85,Weekday,Middle East
+1247189.46943679,desktop,Canada,11/4/2020,1/8/2021,65,Weekday,North America
+1259482.38078816,desktop,Mexico,11/3/2020,12/9/2020,36,Weekday,North America
+1314633.32003616,mobile,Mexico,11/3/2020,11/21/2020,18,Weekday,North America
+1323250.75135568,mobile,South Africa,11/6/2020,11/19/2020,13,Weekday,Africa
+1323679.33645435,mobile,Hong Kong,11/3/2020,12/31/2020,58,Weekday,Asia
+1326237.64255386,mobile,Czechia,11/8/2020,1/15/2021,68,Weekend,Europe
+1338058.60127638,mobile,United States,11/7/2020,1/27/2021,81,Weekend,North America
+1338949.61967055,desktop,United States,11/8/2020,1/23/2021,76,Weekend,North America
+1343580.60835652,desktop,India,11/7/2020,1/29/2021,83,Weekend,Asia
+1358307.35067523,mobile,Australia,11/5/2020,12/8/2020,33,Weekday,Oceania
+1369675.30296504,desktop,Argentina,11/7/2020,12/13/2020,36,Weekend,South America
+1370781.71385922,desktop,India,11/6/2020,1/22/2021,77,Weekday,Asia
+1376694.16727939,desktop,Canada,11/6/2020,1/13/2021,68,Weekday,North America
+1390791.77543065,mobile,United States,11/1/2020,12/18/2020,47,Weekend,North America
+1391276.87056595,desktop,India,11/2/2020,1/8/2021,67,Weekday,Asia
+1392086.62566237,desktop,United Kingdom,11/1/2020,1/6/2021,66,Weekend,Europe
+1405798.39662652,desktop,Indonesia,11/4/2020,1/28/2021,85,Weekday,Asia
+1409853.19172777,mobile,United States,11/8/2020,1/17/2021,70,Weekend,North America
+1413832.53695238,mobile,United States,11/2/2020,12/27/2020,55,Weekday,North America
+1426415.91049516,desktop,France,11/6/2020,1/21/2021,76,Weekday,Europe
+1437546.55636057,mobile,Germany,11/7/2020,1/1/2021,55,Weekend,Europe
+1452335.50838574,desktop,Japan,11/4/2020,12/24/2020,50,Weekday,Asia
+1494018.51831337,desktop,Canada,11/6/2020,1/20/2021,75,Weekday,North America
+1494049.38055904,desktop,United States,11/1/2020,12/3/2020,32,Weekend,North America
+1508851.39753264,mobile,United Kingdom,11/1/2020,1/6/2021,66,Weekend,Europe
+1535812.67224692,desktop,Germany,11/2/2020,12/8/2020,36,Weekday,Europe
+1556928.93057059,mobile,United States,11/8/2020,12/28/2020,50,Weekend,North America
+1557095.17469388,mobile,United States,11/1/2020,11/29/2020,28,Weekend,North America
+1558339.64306809,mobile,United States,11/5/2020,12/31/2020,56,Weekday,North America
+1573028.08219239,mobile,United States,11/6/2020,12/20/2020,44,Weekday,North America
+1583021.20537373,mobile,France,11/2/2020,11/15/2020,13,Weekday,Europe
+1592448.44292459,desktop,United States,11/7/2020,1/14/2021,68,Weekend,North America
+1611443.38408578,desktop,Ireland,11/4/2020,12/22/2020,48,Weekday,Europe
+1612497.43322693,mobile,(not set),11/1/2020,1/2/2021,62,Weekend,
+1613659.68491156,desktop,Canada,11/1/2020,12/31/2020,60,Weekend,North America
+1641407.91238524,desktop,Turkey,11/7/2020,1/13/2021,67,Weekend,Middle East
+1654393.51543221,desktop,United States,11/7/2020,12/17/2020,40,Weekend,North America
+1664623.17973763,mobile,Canada,11/2/2020,12/5/2020,33,Weekday,North America
+1670164.00500791,mobile,Indonesia,11/8/2020,12/13/2020,35,Weekend,Asia
+1677916.41878242,mobile,United States,11/5/2020,1/6/2021,62,Weekday,North America
+1680690.07065245,desktop,United States,11/8/2020,2/9/2021,93,Weekend,North America
+1685028.72755725,desktop,Pakistan,11/1/2020,12/14/2020,43,Weekend,Asia
+1701274.16682198,mobile,Canada,11/8/2020,1/13/2021,66,Weekend,North America
+1707104.92684458,mobile,United States,11/5/2020,11/6/2020,1,Weekday,North America
+1197804.17527742,desktop,United States,11/10/2020,12/16/2020,36,Weekday,North America
+1326642.70803008,desktop,Peru,11/15/2020,12/25/2020,40,Weekend,South America
+1443366.82923771,desktop,United States,11/13/2020,12/15/2020,32,Weekday,North America
+1717204.76632802,desktop,United States,11/11/2020,12/9/2020,28,Weekday,North America
+1788923.89262464,desktop,China,11/12/2020,1/19/2021,68,Weekday,Asia
+1805300.60041725,desktop,France,11/13/2020,1/7/2021,55,Weekday,Europe
+1806039.57374734,desktop,India,11/8/2020,1/14/2021,67,Weekend,Asia
+1809991.61837124,mobile,Czechia,11/8/2020,1/5/2021,58,Weekend,Europe
+1817570.13963491,mobile,Brazil,11/14/2020,1/3/2021,50,Weekend,South America
+1818164.59135170,desktop,United States,11/13/2020,1/25/2021,73,Weekday,North America
+1818616.29868065,mobile,Bahrain,11/13/2020,12/26/2020,43,Weekday,Middle East
+1821017.92273896,desktop,United States,11/14/2020,12/20/2020,36,Weekend,North America
+1832198.02269963,desktop,United States,11/14/2020,2/3/2021,81,Weekend,North America
+1838662.89408604,desktop,United States,11/11/2020,12/29/2020,48,Weekday,North America
+1839173.49527350,mobile,Spain,11/10/2020,12/6/2020,26,Weekday,Europe
+1854579.13550854,mobile,United States,11/9/2020,12/20/2020,41,Weekday,North America
+1859374.35477988,desktop,Canada,11/12/2020,12/23/2020,41,Weekday,North America
+1862350.35549055,mobile,United States,11/9/2020,12/15/2020,36,Weekday,North America
+1877824.84700468,desktop,Lebanon,11/14/2020,1/19/2021,66,Weekend,Middle East
+1889753.17632889,desktop,France,11/10/2020,1/15/2021,66,Weekday,Europe
+1899446.97622937,mobile,United States,11/10/2020,12/7/2020,27,Weekday,North America
+1174860.73208399,desktop,United States,11/14/2020,1/3/2021,50,Weekend,North America
+1196539.39326213,mobile,United States,11/8/2020,1/13/2021,66,Weekend,North America
+1219682.40213950,mobile,(not set),11/10/2020,1/3/2021,54,Weekday,
+1227277.12360142,mobile,Colombia,11/13/2020,2/7/2021,86,Weekday,South America
+1237865.36241217,mobile,Japan,11/14/2020,1/21/2021,68,Weekend,Asia
+1267590.87246767,desktop,United States,11/14/2020,2/4/2021,82,Weekend,North America
+1289579.35088433,desktop,Indonesia,11/15/2020,12/17/2020,32,Weekend,Asia
+1289610.98599670,desktop,United States,11/10/2020,1/24/2021,75,Weekday,North America
+1359571.25428077,desktop,United States,11/14/2020,1/11/2021,58,Weekend,North America
+1361186.68263640,mobile,India,11/13/2020,12/16/2020,33,Weekday,Asia
+1365518.32009219,desktop,United States,11/10/2020,1/12/2021,63,Weekday,North America
+1368841.55950016,desktop,India,11/15/2020,2/1/2021,78,Weekend,Asia
+1449712.30989247,desktop,Canada,11/15/2020,1/24/2021,70,Weekend,North America
+1469737.26819656,desktop,Brazil,11/8/2020,12/20/2020,42,Weekend,South America
+1474915.76033787,desktop,Italy,11/12/2020,1/25/2021,74,Weekday,Europe
+1480507.13368692,desktop,United States,11/8/2020,12/25/2020,47,Weekend,North America
+1497949.92785001,desktop,Indonesia,11/13/2020,1/16/2021,64,Weekday,Asia
+1499070.87768343,desktop,Canada,11/9/2020,1/1/2021,53,Weekday,North America
+1530401.44037093,desktop,Germany,11/11/2020,1/5/2021,55,Weekday,Europe
+1533037.07336333,desktop,United States,11/11/2020,1/25/2021,75,Weekday,North America
+1579147.70947064,mobile,United States,11/8/2020,12/2/2020,24,Weekend,North America
+1593456.45350417,mobile,Poland,11/15/2020,2/6/2021,83,Weekend,Europe
+1612986.54155249,desktop,United States,11/8/2020,12/1/2020,23,Weekend,North America
+1626651.97696934,mobile,Singapore,11/13/2020,12/16/2020,33,Weekday,Asia
+1634679.32322476,mobile,Taiwan,11/15/2020,1/6/2021,52,Weekend,Asia
+1641107.17853218,desktop,United States,11/12/2020,1/22/2021,71,Weekday,North America
+1659071.78266776,desktop,Germany,11/10/2020,1/6/2021,57,Weekday,Europe
+1672367.89691067,desktop,United States,11/10/2020,1/7/2021,58,Weekday,North America
+1672858.89912912,mobile,United States,11/15/2020,1/7/2021,53,Weekend,North America
+1688920.26548303,desktop,Japan,11/12/2020,1/6/2021,55,Weekday,Asia
+1703029.38344281,mobile,United Kingdom,11/11/2020,1/22/2021,72,Weekday,Europe
+1712680.40275957,mobile,United States,11/11/2020,1/11/2021,61,Weekday,North America
+2149797.16026403,desktop,United States,11/13/2020,1/29/2021,77,Weekday,North America
+2173971.48435058,mobile,Thailand,11/14/2020,12/9/2020,25,Weekend,Asia
+2174764.70115355,desktop,United States,11/10/2020,1/7/2021,58,Weekday,North America
+2176099.37523423,desktop,Mexico,11/12/2020,1/4/2021,53,Weekday,North America
+2193075.38074051,desktop,Poland,11/10/2020,12/19/2020,39,Weekday,Europe
+2215981.32127332,desktop,United States,11/11/2020,1/17/2021,67,Weekday,North America
+2218360.62227741,mobile,Greece,11/9/2020,12/13/2020,34,Weekday,Europe
+2219347.48502592,mobile,Taiwan,11/15/2020,1/12/2021,58,Weekend,Asia
+2223530.55143036,desktop,Spain,11/11/2020,12/19/2020,38,Weekday,Europe
+2223836.46160875,desktop,United States,11/9/2020,2/11/2021,94,Weekday,North America
+2230783.20927544,desktop,India,11/14/2020,12/26/2020,42,Weekend,Asia
+2270892.60680419,mobile,United States,11/14/2020,1/2/2021,49,Weekend,North America
+2278212.00132225,mobile,Italy,11/14/2020,1/13/2021,60,Weekend,Europe
+2290011.34171302,mobile,Italy,11/8/2020,12/11/2020,33,Weekend,Europe
+2294493.48998298,desktop,United States,11/8/2020,1/24/2021,77,Weekend,North America
+2308371.59801525,desktop,India,11/15/2020,12/20/2020,35,Weekend,Asia
+2338631.19567554,desktop,United States,11/8/2020,2/5/2021,89,Weekend,North America
+1382700.58669827,mobile,United States,11/17/2020,1/1/2021,45,Weekday,North America
+1472078.38119214,desktop,Ecuador,11/19/2020,1/6/2021,48,Weekday,South America
+2252988.67316184,desktop,Singapore,11/19/2020,1/12/2021,54,Weekday,Asia
+1023953.98422417,mobile,India,11/20/2020,1/20/2021,61,Weekday,Asia
+1028797.69383481,desktop,United States,11/19/2020,1/6/2021,48,Weekday,North America
+1032714.29338829,desktop,United States,11/20/2020,1/4/2021,45,Weekday,North America
+1045890.76474669,mobile,United States,11/22/2020,1/1/2021,40,Weekend,North America
+1059934.96102365,desktop,United States,11/18/2020,12/24/2020,36,Weekday,North America
+1068018.41188791,mobile,United States,11/17/2020,2/6/2021,81,Weekday,North America
+1133955.58069989,desktop,Brazil,11/19/2020,1/6/2021,48,Weekday,South America
+1197937.45820042,mobile,India,11/19/2020,1/19/2021,61,Weekday,Asia
+1223041.13113025,mobile,United States,11/22/2020,1/10/2021,49,Weekend,North America
+1225414.58066695,mobile,United States,11/19/2020,12/14/2020,25,Weekday,North America
+1257894.38379659,mobile,United States,11/16/2020,12/30/2020,44,Weekday,North America
+1287286.83447429,desktop,United States,11/18/2020,2/1/2021,75,Weekday,North America
+1288301.61191630,mobile,South Korea,11/18/2020,12/29/2020,41,Weekday,Asia
+1295191.90543719,desktop,United States,11/19/2020,2/10/2021,83,Weekday,North America
+1302727.48617642,mobile,United States,11/20/2020,1/24/2021,65,Weekday,North America
+1316040.46007004,desktop,United States,11/18/2020,2/4/2021,78,Weekday,North America
+1344042.58776014,desktop,United States,11/15/2020,1/4/2021,50,Weekend,North America
+1355440.86643147,mobile,United States,11/16/2020,12/9/2020,23,Weekday,North America
+1366218.63909622,desktop,Indonesia,11/20/2020,1/6/2021,47,Weekday,Asia
+1367585.66601752,desktop,Germany,11/15/2020,1/17/2021,63,Weekend,Europe
+1370065.72029429,desktop,United States,11/21/2020,1/30/2021,70,Weekend,North America
+1400458.63481149,desktop,Canada,11/20/2020,12/6/2020,16,Weekday,North America
+1413271.95235160,desktop,India,11/21/2020,1/19/2021,59,Weekend,Asia
+1414938.84387702,mobile,United States,11/19/2020,1/6/2021,48,Weekday,North America
+1415721.87194777,mobile,India,11/15/2020,12/24/2020,39,Weekend,Asia
+1434329.96152076,mobile,New Zealand,11/18/2020,1/27/2021,70,Weekday,Oceania
+1456382.21483317,desktop,United States,11/16/2020,1/23/2021,68,Weekday,North America
+1464210.68155506,mobile,Indonesia,11/17/2020,1/27/2021,71,Weekday,Asia
+1466116.95593871,mobile,United Kingdom,11/17/2020,12/27/2020,40,Weekday,Europe
+1474849.04952564,mobile,Taiwan,11/16/2020,1/18/2021,63,Weekday,Asia
+1493938.15472119,mobile,United States,11/22/2020,2/7/2021,77,Weekend,North America
+1501902.97974132,desktop,Tunisia,11/15/2020,2/9/2021,86,Weekend,Africa
+1504020.76610340,mobile,Sri Lanka,11/16/2020,12/9/2020,23,Weekday,Asia
+1551088.03410920,desktop,Colombia,11/19/2020,1/12/2021,54,Weekday,South America
+1566386.25247787,desktop,United States,11/22/2020,1/14/2021,53,Weekend,North America
+1580362.74688516,desktop,France,11/19/2020,1/27/2021,69,Weekday,Europe
+1627000.04313577,mobile,(not set),11/21/2020,1/18/2021,58,Weekend,
+1630691.97773232,desktop,United States,11/19/2020,1/1/2021,43,Weekday,North America
+1685670.59501073,mobile,United States,11/16/2020,1/1/2021,46,Weekday,North America
+1690625.48635542,desktop,Turkey,11/19/2020,12/8/2020,19,Weekday,Middle East
+1918757.11619789,desktop,Morocco,11/15/2020,2/11/2021,88,Weekend,Africa
+1953320.44265861,desktop,United States,11/16/2020,1/4/2021,49,Weekday,North America
+1953933.50386205,mobile,United States,11/22/2020,1/7/2021,46,Weekend,North America
+1972290.42834851,desktop,United States,11/16/2020,1/8/2021,53,Weekday,North America
+1988031.94144766,mobile,Taiwan,11/19/2020,1/25/2021,67,Weekday,Asia
+1997923.63077373,desktop,United States,11/17/2020,11/20/2020,3,Weekday,North America
+2025791.58028439,desktop,United States,11/18/2020,1/16/2021,59,Weekday,North America
+2039147.83843335,desktop,United States,11/22/2020,1/18/2021,57,Weekend,North America
+2040020.01546605,mobile,Canada,11/19/2020,12/24/2020,35,Weekday,North America
+2047969.31363277,desktop,United States,11/15/2020,2/17/2021,94,Weekend,North America
+2057859.77663747,desktop,France,11/15/2020,12/27/2020,42,Weekend,Europe
+2070079.92214311,desktop,China,11/20/2020,2/3/2021,75,Weekday,Asia
+2075276.87096523,mobile,United Kingdom,11/15/2020,1/6/2021,52,Weekend,Europe
+2080369.14791837,desktop,Poland,11/21/2020,2/14/2021,85,Weekend,Europe
+2109493.21007896,desktop,Singapore,11/22/2020,1/7/2021,46,Weekend,Asia
+2111604.97340441,mobile,United States,11/16/2020,12/16/2020,30,Weekday,North America
+2114227.34124751,desktop,Netherlands,11/22/2020,2/11/2021,81,Weekend,Europe
+2128956.98289208,mobile,India,11/19/2020,1/11/2021,53,Weekday,Asia
+2146541.48984389,mobile,India,11/15/2020,11/29/2020,14,Weekend,Asia
+2153397.39600417,mobile,United States,11/19/2020,12/23/2020,34,Weekday,North America
+2167362.67315226,desktop,Bangladesh,11/18/2020,1/24/2021,67,Weekday,Asia
+2189292.06513193,desktop,United Kingdom,11/18/2020,2/2/2021,76,Weekday,Europe
+2189960.69160960,mobile,United States,11/22/2020,12/23/2020,31,Weekend,North America
+2201472.45998753,desktop,United States,11/22/2020,11/23/2020,1,Weekend,North America
+2206779.86517023,desktop,United States,11/17/2020,1/26/2021,70,Weekday,North America
+2207886.11714853,desktop,United States,11/22/2020,12/27/2020,35,Weekend,North America
+2209752.64062618,desktop,United States,11/22/2020,12/11/2020,19,Weekend,North America
+2241251.15071717,desktop,India,11/16/2020,11/19/2020,3,Weekday,Asia
+2251966.08877190,desktop,Taiwan,11/18/2020,2/2/2021,76,Weekday,Asia
+2280654.49863001,mobile,United Kingdom,11/16/2020,1/2/2021,47,Weekday,Europe
+2310662.48629930,mobile,Poland,11/17/2020,12/27/2020,40,Weekday,Europe
+2331466.21609521,mobile,Australia,11/17/2020,1/28/2021,72,Weekday,Oceania
+1561825.00815667,desktop,United States,11/25/2020,2/5/2021,72,Weekday,North America
+1777251.23920677,mobile,Switzerland,11/28/2020,2/13/2021,77,Weekend,Europe
+1780911.62672435,desktop,Spain,11/27/2020,12/29/2020,32,Weekday,Europe
+1794243.05760058,desktop,United States,11/23/2020,1/21/2021,59,Weekday,North America
+1819545.74234863,mobile,Taiwan,11/26/2020,12/8/2020,12,Weekday,Asia
+1824797.27018959,desktop,United States,11/24/2020,1/18/2021,55,Weekday,North America
+1833049.29933579,desktop,United States,11/25/2020,1/19/2021,55,Weekday,North America
+1835182.73900980,mobile,United States,11/22/2020,1/18/2021,57,Weekend,North America
+1860104.31264468,desktop,United States,11/26/2020,1/25/2021,60,Weekday,North America
+1876861.28672140,mobile,Australia,11/28/2020,1/24/2021,57,Weekend,Oceania
+1877464.63261554,mobile,South Korea,11/25/2020,1/23/2021,59,Weekday,Asia
+1884619.55931444,desktop,United States,11/28/2020,3/11/2021,103,Weekend,North America
+1885197.04225280,mobile,Russia,11/27/2020,1/4/2021,38,Weekday,Europe
+1908144.79193584,desktop,United Kingdom,11/26/2020,1/6/2021,41,Weekday,Europe
+1909943.14522972,mobile,Brazil,11/27/2020,1/15/2021,49,Weekday,South America
+1925809.71489806,mobile,Italy,11/25/2020,12/23/2020,28,Weekday,Europe
+1940348.32469384,desktop,United States,11/22/2020,2/19/2021,89,Weekend,North America
+1948462.36768090,mobile,Russia,11/24/2020,1/2/2021,39,Weekday,Europe
+1954050.94743075,mobile,Pakistan,11/28/2020,12/31/2020,33,Weekend,Asia
+1977670.42092874,desktop,United States,11/22/2020,1/11/2021,50,Weekend,North America
+2020354.73853786,desktop,United States,11/26/2020,2/8/2021,74,Weekday,North America
+2043466.51716194,desktop,Portugal,11/25/2020,1/20/2021,56,Weekday,Europe
+2051090.78827677,mobile,South Korea,11/24/2020,12/26/2020,32,Weekday,Asia
+2053000.61278073,desktop,United States,11/29/2020,3/2/2021,93,Weekend,North America
+2053105.58592425,mobile,United States,11/22/2020,12/19/2020,27,Weekend,North America
+2057075.36012753,mobile,Germany,11/29/2020,1/13/2021,45,Weekend,Europe
+2065088.56620777,desktop,India,11/29/2020,2/10/2021,73,Weekend,Asia
+2068132.97436461,mobile,Canada,11/25/2020,12/7/2020,12,Weekday,North America
+2071196.65779995,desktop,United States,11/25/2020,2/2/2021,69,Weekday,North America
+2072492.29077574,desktop,Malta,11/25/2020,1/2/2021,38,Weekday,Europe
+2085045.55152642,mobile,Ireland,11/23/2020,1/23/2021,61,Weekday,Europe
+2098049.32322274,mobile,United Kingdom,11/24/2020,12/19/2020,25,Weekday,Europe
+2102215.11697156,desktop,United States,11/24/2020,2/5/2021,73,Weekday,North America
+2110588.80191824,desktop,(not set),11/28/2020,2/18/2021,82,Weekend,
+2130678.72471972,desktop,United States,11/25/2020,2/10/2021,77,Weekday,North America
+2144288.01569745,desktop,United States,11/24/2020,1/28/2021,65,Weekday,North America
+2171445.48987108,desktop,United States,11/23/2020,1/17/2021,55,Weekday,North America
+2175659.39710308,mobile,United States,11/23/2020,12/26/2020,33,Weekday,North America
+2176256.39058701,mobile,United States,11/22/2020,2/4/2021,74,Weekend,North America
+2177881.27863486,mobile,United States,11/29/2020,12/30/2020,31,Weekend,North America
+2187164.40085696,desktop,Canada,11/23/2020,1/1/2021,39,Weekday,North America
+2221992.71731616,desktop,United Kingdom,11/29/2020,2/10/2021,73,Weekend,Europe
+2238159.07189419,mobile,Australia,11/25/2020,12/24/2020,29,Weekday,Oceania
+2246821.64696468,mobile,(not set),11/23/2020,12/18/2020,25,Weekday,
+2249313.67673730,mobile,China,11/22/2020,12/8/2020,16,Weekend,Asia
+2257797.57216117,desktop,United States,11/22/2020,1/11/2021,50,Weekend,North America
+2307331.59841590,desktop,United States,11/23/2020,1/20/2021,58,Weekday,North America
+2330025.64886994,desktop,Israel,11/23/2020,1/26/2021,64,Weekday,Middle East
+2347639.25119861,mobile,Canada,11/29/2020,2/1/2021,64,Weekend,North America
+2354675.61245301,mobile,China,11/26/2020,1/20/2021,55,Weekday,Asia
+2368585.67906200,desktop,Sweden,11/23/2020,1/18/2021,56,Weekday,Europe
+2369699.55005078,mobile,United States,11/23/2020,1/3/2021,41,Weekday,North America
+2377836.47694421,mobile,India,11/24/2020,1/18/2021,55,Weekday,Asia
+2392346.18363931,desktop,Taiwan,11/22/2020,2/15/2021,85,Weekend,Asia
+2397019.26225598,mobile,Taiwan,11/29/2020,1/15/2021,47,Weekend,Asia
+2402154.22584206,mobile,Brazil,11/26/2020,12/31/2020,35,Weekday,South America
+2406890.53976500,desktop,India,11/29/2020,1/8/2021,40,Weekend,Asia
+2407478.79003431,mobile,United States,11/24/2020,12/10/2020,16,Weekday,North America
+2414876.71426559,desktop,Canada,11/27/2020,2/8/2021,73,Weekday,North America
+2424937.13519890,mobile,United States,11/24/2020,1/19/2021,56,Weekday,North America
+2447316.05253825,desktop,United States,11/25/2020,2/4/2021,71,Weekday,North America
+2458063.25411676,desktop,Canada,11/25/2020,1/21/2021,57,Weekday,North America
+2460305.06778682,mobile,United Kingdom,11/26/2020,2/7/2021,73,Weekday,Europe
+2465438.30490688,desktop,Canada,11/23/2020,1/12/2021,50,Weekday,North America
+2470356.50053613,desktop,Belgium,11/26/2020,2/13/2021,79,Weekday,Europe
+2475879.00492196,mobile,Norway,11/27/2020,1/10/2021,44,Weekday,Europe
+2481753.77636282,desktop,United States,11/23/2020,1/9/2021,47,Weekday,North America
+2484705.72255185,desktop,United States,11/26/2020,2/5/2021,71,Weekday,North America
+2532316.52037803,desktop,United States,11/26/2020,2/2/2021,68,Weekday,North America
+2540078.30882587,desktop,United States,11/26/2020,2/1/2021,67,Weekday,North America
+2548269.37352996,desktop,Australia,11/28/2020,1/28/2021,61,Weekend,Oceania
+2569731.76793523,desktop,United Kingdom,11/25/2020,1/23/2021,59,Weekday,Europe
+2581747.12435279,desktop,Spain,11/26/2020,3/13/2021,107,Weekday,Europe
+2585570.91433170,desktop,Austria,11/28/2020,2/19/2021,83,Weekend,Europe
+2586594.79316795,mobile,Canada,11/25/2020,1/23/2021,59,Weekday,North America
+2594336.61936327,desktop,China,11/26/2020,1/27/2021,62,Weekday,Asia
+2600295.97846953,desktop,United Kingdom,11/24/2020,2/12/2021,80,Weekday,Europe
+2603854.92340850,desktop,India,11/25/2020,2/3/2021,70,Weekday,Asia
+2604021.19711818,desktop,Indonesia,11/26/2020,1/25/2021,60,Weekday,Asia
+2610105.43157123,mobile,India,11/24/2020,1/1/2021,38,Weekday,Asia
+2618526.07794534,mobile,United States,11/28/2020,1/10/2021,43,Weekend,North America
+2619018.62510161,desktop,United States,11/25/2020,5/11/2021,167,Weekday,North America
+2625054.34913534,desktop,Canada,11/29/2020,2/1/2021,64,Weekend,North America
+2626634.03688418,desktop,India,11/24/2020,1/13/2021,50,Weekday,Asia
+2647787.99746624,desktop,Brazil,11/29/2020,2/28/2021,91,Weekend,South America
+2650247.52844523,desktop,United States,11/24/2020,1/23/2021,60,Weekday,North America
+2655109.80377150,desktop,United States,11/26/2020,1/1/2021,36,Weekday,North America
+1061553.04104362,desktop,United States,12/6/2020,2/3/2021,59,Weekend,North America
+1072671.94279563,mobile,United States,12/5/2020,12/29/2020,24,Weekend,North America
+1080795.78453572,mobile,Belgium,12/6/2020,1/29/2021,54,Weekend,Europe
+1086645.20832739,mobile,Brazil,12/1/2020,1/20/2021,50,Weekday,South America
+1088530.13304020,desktop,Slovenia,12/6/2020,2/23/2021,79,Weekend,Europe
+1099207.80628105,mobile,United States,11/29/2020,12/28/2020,29,Weekend,North America
+1112990.07437746,mobile,Australia,12/6/2020,1/20/2021,45,Weekend,Oceania
+1115826.72875939,desktop,United States,12/5/2020,1/6/2021,32,Weekend,North America
+1120304.15287417,desktop,India,12/6/2020,2/18/2021,74,Weekend,Asia
+1142495.36852789,mobile,Vietnam,12/1/2020,1/25/2021,55,Weekday,Asia
+1146529.86982867,mobile,Canada,12/3/2020,1/26/2021,54,Weekday,North America
+1155453.73573564,desktop,Poland,12/1/2020,1/30/2021,60,Weekday,Europe
+1157260.25360552,mobile,Japan,12/1/2020,1/23/2021,53,Weekday,Asia
+1173139.67601206,desktop,Canada,11/30/2020,3/2/2021,92,Weekday,North America
+1173654.60182203,mobile,Philippines,11/29/2020,1/7/2021,39,Weekend,Asia
+1198284.21904919,mobile,United States,12/4/2020,1/20/2021,47,Weekday,North America
+1203787.26282421,mobile,Thailand,12/1/2020,12/24/2020,23,Weekday,Asia
+1231625.84436687,desktop,United States,12/3/2020,1/14/2021,42,Weekday,North America
+1249388.34284098,mobile,India,12/3/2020,1/18/2021,46,Weekday,Asia
+1261180.91406551,desktop,Canada,12/4/2020,2/24/2021,82,Weekday,North America
+1263804.49409132,desktop,Canada,12/5/2020,1/28/2021,54,Weekend,North America
+1273527.18275774,desktop,Singapore,11/29/2020,1/23/2021,55,Weekend,Asia
+1278104.68385285,mobile,United States,12/1/2020,1/6/2021,36,Weekday,North America
+1300303.75859237,mobile,United States,11/29/2020,1/2/2021,34,Weekend,North America
+1318698.64309315,desktop,United States,11/29/2020,2/2/2021,65,Weekend,North America
+1319488.57803497,desktop,United States,12/1/2020,12/31/2020,30,Weekday,North America
+1325323.06477191,desktop,Pakistan,12/4/2020,2/27/2021,85,Weekday,Asia
+1333105.28436761,desktop,United States,11/29/2020,1/14/2021,46,Weekend,North America
+1334125.81491949,desktop,United States,12/4/2020,2/16/2021,74,Weekday,North America
+1342083.17251039,mobile,India,12/6/2020,12/25/2020,19,Weekend,Asia
+1344816.60344527,mobile,Kazakhstan,12/5/2020,2/1/2021,58,Weekend,Asia
+1346380.43123882,desktop,United States,12/4/2020,2/15/2021,73,Weekday,North America
+1367986.34318658,desktop,Italy,12/4/2020,2/9/2021,67,Weekday,Europe
+1369364.04088202,desktop,United States,12/5/2020,1/14/2021,40,Weekend,North America
+1377471.99153100,mobile,United States,12/6/2020,1/24/2021,49,Weekend,North America
+1378396.58289369,desktop,China,12/1/2020,1/6/2021,36,Weekday,Asia
+1380234.22664189,desktop,United States,12/4/2020,1/27/2021,54,Weekday,North America
+1389683.70213777,desktop,Canada,12/5/2020,2/23/2021,80,Weekend,North America
+1396169.93711645,desktop,United States,12/5/2020,2/18/2021,75,Weekend,North America
+1438013.04965845,mobile,United States,12/1/2020,1/15/2021,45,Weekday,North America
+1465118.33758468,desktop,France,12/6/2020,1/15/2021,40,Weekend,Europe
+1466887.33516420,mobile,United States,12/3/2020,1/29/2021,57,Weekday,North America
+1467153.65219844,desktop,United States,12/4/2020,2/2/2021,60,Weekday,North America
+1468116.89818919,mobile,Canada,12/1/2020,2/6/2021,67,Weekday,North America
+1491618.84065937,mobile,United States,12/1/2020,1/30/2021,60,Weekday,North America
+1498673.26783213,desktop,India,12/1/2020,1/29/2021,59,Weekday,Asia
+1506460.17074903,desktop,Taiwan,12/6/2020,2/28/2021,84,Weekend,Asia
+1507311.56265780,desktop,India,12/3/2020,1/10/2021,38,Weekday,Asia
+1508257.06503611,desktop,Taiwan,12/4/2020,6/1/2021,179,Weekday,Asia
+1510131.94485089,desktop,United States,12/1/2020,2/4/2021,65,Weekday,North America
+1512370.61833448,mobile,Greece,12/1/2020,1/20/2021,50,Weekday,Europe
+1523095.73746125,desktop,Japan,12/4/2020,12/30/2020,26,Weekday,Asia
+1523988.90014063,desktop,United States,12/2/2020,1/11/2021,40,Weekday,North America
+1532739.29242048,desktop,United States,12/2/2020,3/27/2021,115,Weekday,North America
+1535800.97142253,mobile,United States,12/3/2020,1/10/2021,38,Weekday,North America
+1536851.49307076,desktop,(not set),11/29/2020,2/11/2021,74,Weekend,
+1543165.61860469,desktop,(not set),11/30/2020,1/15/2021,46,Weekday,
+1550317.20309366,desktop,United States,12/3/2020,12/21/2020,18,Weekday,North America
+1551686.45591215,mobile,Switzerland,12/1/2020,1/11/2021,41,Weekday,Europe
+1553948.34828892,desktop,Canada,12/1/2020,1/24/2021,54,Weekday,North America
+1567345.55565946,mobile,United States,11/29/2020,1/5/2021,37,Weekend,North America
+1570479.30042363,desktop,United States,12/1/2020,1/27/2021,57,Weekday,North America
+1572194.47270225,desktop,Canada,11/30/2020,2/3/2021,65,Weekday,North America
+1575485.53586447,mobile,United States,12/1/2020,1/11/2021,41,Weekday,North America
+1579377.78931682,desktop,United States,12/6/2020,1/9/2021,34,Weekend,North America
+1593274.60899638,desktop,Slovakia,12/1/2020,2/8/2021,69,Weekday,Europe
+1594630.97801596,desktop,United States,12/4/2020,12/25/2020,21,Weekday,North America
+1611891.14156880,mobile,Mexico,11/29/2020,12/2/2020,3,Weekend,North America
+1635719.82185538,desktop,United States,12/4/2020,2/16/2021,74,Weekday,North America
+1637656.15305355,desktop,Mexico,12/4/2020,2/12/2021,70,Weekday,North America
+1639812.13503860,desktop,India,12/5/2020,2/1/2021,58,Weekend,Asia
+1667822.57769001,desktop,United States,11/30/2020,1/1/2021,32,Weekday,North America
+1672492.07124740,mobile,Sweden,12/6/2020,1/5/2021,30,Weekend,Europe
+1706945.08399666,mobile,South Korea,12/1/2020,1/9/2021,39,Weekday,Asia
+1715410.99801169,mobile,Mexico,12/5/2020,12/18/2020,13,Weekend,North America
+1719039.92215413,desktop,Sweden,12/4/2020,1/18/2021,45,Weekday,Europe
+1720207.43120918,mobile,United Kingdom,12/3/2020,1/30/2021,58,Weekday,Europe
+1729446.52448851,desktop,India,12/4/2020,3/2/2021,88,Weekday,Asia
+1741410.33940620,desktop,Singapore,12/6/2020,1/26/2021,51,Weekend,Asia
+1742080.51220647,desktop,Taiwan,11/29/2020,2/12/2021,75,Weekend,Asia
+1444866.85833259,mobile,(not set),12/7/2020,12/13/2020,6,Weekday,
+1484748.12738331,desktop,United States,12/8/2020,2/19/2021,73,Weekday,North America
+1686851.27284884,mobile,United States,12/12/2020,1/9/2021,28,Weekend,North America
+1687447.65648961,desktop,Turkey,12/8/2020,2/12/2021,66,Weekday,Middle East
+1748588.75730036,mobile,United States,12/8/2020,1/17/2021,40,Weekday,North America
+1796615.76153637,mobile,United States,12/8/2020,2/17/2021,71,Weekday,North America
+1893503.16226705,mobile,Singapore,12/13/2020,1/9/2021,27,Weekend,Asia
+1117204.84272482,mobile,India,12/11/2020,2/6/2021,57,Weekday,Asia
+1038086.25450049,desktop,Ukraine,12/11/2020,2/3/2021,54,Weekday,Europe
+1042416.51035336,desktop,Argentina,12/12/2020,2/6/2021,56,Weekend,South America
+1043582.82093757,desktop,Australia,12/7/2020,2/1/2021,56,Weekday,Oceania
+1046376.02376952,mobile,United States,12/12/2020,1/9/2021,28,Weekend,North America
+1056516.41450591,mobile,United States,12/12/2020,1/25/2021,44,Weekend,North America
+1068553.34146758,mobile,Italy,12/11/2020,1/23/2021,43,Weekday,Europe
+1080926.61529212,desktop,Brazil,12/7/2020,2/9/2021,64,Weekday,South America
+1101429.12954660,desktop,France,12/9/2020,2/8/2021,61,Weekday,Europe
+1121499.83240571,desktop,United States,12/7/2020,2/20/2021,75,Weekday,North America
+1158582.61411689,desktop,Philippines,12/13/2020,3/1/2021,78,Weekend,Asia
+1171863.06076675,mobile,United States,12/13/2020,1/5/2021,23,Weekend,North America
+1176134.24994435,desktop,India,12/7/2020,2/22/2021,77,Weekday,Asia
+1178452.71361889,desktop,United States,12/8/2020,1/13/2021,36,Weekday,North America
+1181199.27025923,desktop,United States,12/7/2020,2/16/2021,71,Weekday,North America
+1184263.37157477,desktop,Canada,12/7/2020,2/17/2021,72,Weekday,North America
+1187218.81516039,desktop,South Korea,12/6/2020,12/27/2020,21,Weekend,Asia
+1196928.25502661,mobile,Belgium,12/11/2020,1/26/2021,46,Weekday,Europe
+1201560.33043633,desktop,Brazil,12/8/2020,1/27/2021,50,Weekday,South America
+1218020.95754144,mobile,Philippines,12/11/2020,1/9/2021,29,Weekday,Asia
+1228811.81333724,mobile,Pakistan,12/9/2020,2/19/2021,72,Weekday,Asia
+1237015.70385565,mobile,Canada,12/12/2020,1/12/2021,31,Weekend,North America
+1259140.91818747,mobile,United States,12/9/2020,1/6/2021,28,Weekday,North America
+1278743.65108103,desktop,United States,12/9/2020,2/8/2021,61,Weekday,North America
+1281097.82682494,mobile,Indonesia,12/11/2020,2/7/2021,58,Weekday,Asia
+1281834.91887709,desktop,United States,12/13/2020,2/8/2021,57,Weekend,North America
+1308205.30395221,desktop,United States,12/9/2020,3/2/2021,83,Weekday,North America
+1319478.80264571,desktop,Taiwan,12/13/2020,2/21/2021,70,Weekend,Asia
+1324309.51031354,desktop,United States,12/11/2020,12/27/2020,16,Weekday,North America
+1331304.49129755,mobile,United States,12/11/2020,1/14/2021,34,Weekday,North America
+1347186.55789572,desktop,India,12/10/2020,1/27/2021,48,Weekday,Asia
+1364820.47195799,mobile,India,12/11/2020,2/3/2021,54,Weekday,Asia
+1371217.33632050,desktop,United States,12/8/2020,12/15/2020,7,Weekday,North America
+1372287.19376775,desktop,United Kingdom,12/7/2020,3/27/2021,110,Weekday,Europe
+1385441.38930235,mobile,United States,12/10/2020,2/3/2021,55,Weekday,North America
+1386573.21157895,desktop,Australia,12/9/2020,2/9/2021,62,Weekday,Oceania
+1391938.01068670,mobile,United Kingdom,12/12/2020,2/18/2021,68,Weekend,Europe
+1394889.12967898,desktop,United States,12/12/2020,3/28/2021,106,Weekend,North America
+1418779.84777932,desktop,United States,12/10/2020,2/25/2021,77,Weekday,North America
+1423214.92407798,desktop,United States,12/9/2020,2/25/2021,78,Weekday,North America
+1430004.19580940,desktop,Canada,12/6/2020,2/6/2021,62,Weekend,North America
+1435347.08740373,mobile,United States,12/12/2020,1/23/2021,42,Weekend,North America
+1454452.14932710,mobile,Lebanon,12/7/2020,1/11/2021,35,Weekday,Middle East
+1477999.64118060,mobile,China,12/7/2020,1/4/2021,28,Weekday,Asia
+1484576.30472051,mobile,Canada,12/10/2020,1/10/2021,31,Weekday,North America
+1494674.33899299,mobile,United States,12/12/2020,12/29/2020,17,Weekend,North America
+1495445.99321060,desktop,United States,12/11/2020,2/7/2021,58,Weekday,North America
+1504468.31594381,desktop,United States,12/8/2020,1/3/2021,26,Weekday,North America
+1515810.23423730,desktop,United States,12/7/2020,2/8/2021,63,Weekday,North America
+1530413.52185197,mobile,South Korea,12/8/2020,1/21/2021,44,Weekday,Asia
+1532914.90843082,mobile,Hungary,12/12/2020,1/28/2021,47,Weekend,Europe
+1537744.93723006,desktop,Canada,12/12/2020,1/30/2021,49,Weekend,North America
+1540419.65263478,mobile,Honduras,12/9/2020,3/25/2021,106,Weekday,Central America
+1550291.72233587,desktop,Canada,12/6/2020,3/3/2021,87,Weekend,North America
+1551788.31296775,mobile,United Kingdom,12/6/2020,12/26/2020,20,Weekend,Europe
+1553266.45065623,desktop,Peru,12/10/2020,2/12/2021,64,Weekday,South America
+1563548.25801765,mobile,France,12/10/2020,1/11/2021,32,Weekday,Europe
+1564554.16059707,desktop,United States,12/10/2020,1/18/2021,39,Weekday,North America
+1568465.29219131,mobile,United States,12/6/2020,12/24/2020,18,Weekend,North America
+1579595.53871897,mobile,Japan,12/12/2020,2/3/2021,53,Weekend,Asia
+1589531.31155957,mobile,China,12/9/2020,1/9/2021,31,Weekday,Asia
+1614037.45845273,mobile,Malaysia,12/11/2020,2/13/2021,64,Weekday,Asia
+1626636.29804772,mobile,United States,12/7/2020,2/9/2021,64,Weekday,North America
+1651366.07494373,desktop,United States,12/9/2020,3/6/2021,87,Weekday,North America
+1655984.81215615,desktop,Norway,12/9/2020,1/20/2021,42,Weekday,Europe
+1662245.19728597,mobile,India,12/10/2020,2/2/2021,54,Weekday,Asia
+1675680.73674310,mobile,Canada,12/10/2020,2/5/2021,57,Weekday,North America
+1750179.63060307,desktop,United States,12/7/2020,1/26/2021,50,Weekday,North America
+1771448.01580722,desktop,Canada,12/13/2020,1/26/2021,44,Weekend,North America
+1815378.80058331,mobile,United States,12/6/2020,2/21/2021,77,Weekend,North America
+1831250.83213137,desktop,United States,12/12/2020,2/14/2021,64,Weekend,North America
+1860064.12284109,mobile,Belgium,12/13/2020,2/8/2021,57,Weekend,Europe
+1892707.72249412,mobile,United States,12/8/2020,1/5/2021,28,Weekday,North America
+1899211.66021758,desktop,United States,12/13/2020,1/17/2021,35,Weekend,North America
+1204012.28297000,desktop,Brazil,12/20/2020,2/6/2021,48,Weekend,South America
+1205920.91046272,desktop,Taiwan,12/19/2020,2/14/2021,57,Weekend,Asia
+1216803.11883009,desktop,India,12/14/2020,1/21/2021,38,Weekday,Asia
+1217696.03518460,desktop,Canada,12/18/2020,2/15/2021,59,Weekday,North America
+1218510.25944575,desktop,Canada,12/14/2020,1/9/2021,26,Weekday,North America
+1245521.56725901,desktop,United States,12/17/2020,1/23/2021,37,Weekday,North America
+1258848.52326014,desktop,France,12/18/2020,3/1/2021,73,Weekday,Europe
+1272711.20640434,desktop,United States,12/15/2020,2/25/2021,72,Weekday,North America
+1275330.43853062,mobile,Colombia,12/13/2020,1/19/2021,37,Weekend,South America
+1285718.64655786,mobile,Netherlands,12/17/2020,1/10/2021,24,Weekday,Europe
+1288804.48179034,desktop,India,12/17/2020,1/25/2021,39,Weekday,Asia
+1305962.76134729,desktop,India,12/16/2020,2/6/2021,52,Weekday,Asia
+1306597.86743991,desktop,United States,12/15/2020,2/25/2021,72,Weekday,North America
+1309623.43000730,mobile,Peru,12/17/2020,2/18/2021,63,Weekday,South America
+1315760.02003984,desktop,United States,12/15/2020,2/3/2021,50,Weekday,North America
+1320624.79288670,desktop,Spain,12/14/2020,1/19/2021,36,Weekday,Europe
+1334457.24851172,mobile,India,12/15/2020,2/3/2021,50,Weekday,Asia
+1344632.02098350,mobile,United States,12/15/2020,1/12/2021,28,Weekday,North America
+1349818.25710409,desktop,United States,12/19/2020,2/6/2021,49,Weekend,North America
+1353974.54493521,mobile,United States,12/16/2020,2/25/2021,71,Weekday,North America
