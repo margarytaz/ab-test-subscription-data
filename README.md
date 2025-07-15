@@ -29,6 +29,14 @@ The **Mann-Whitney U test** was selected for this comparison as a non-parametric
 
 Since the p-value ($0.000$) is less than the typical significance level of $0.05$, **we reject the null hypothesis ($\text{H}_0$)**. This indicates that there is a statistically significant difference in the average subscription duration between mobile and desktop users. Specifically, **desktop users have a notably longer average subscription duration compared to mobile users**, with a median difference estimated at $14.5$ days.
 
+**Mann-Whitney U Test Notebook**
+
+Explore the Mann-Whitney U test analysis, including data preparation, test execution, and conclusions, by viewing this notebook on GitHub or opening it in Google Colab:
+
+[**View Mann-Whitney U Test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/Mann_Whitney_test.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/Mann_Whitney_test.ipynb)
+
 ---
 
 ### Sub-task 2: Comparison of Subscription Duration by Subscription Start Date (Weekday vs. Weekend)
@@ -49,6 +57,14 @@ Since the p-value ($0.000$) is less than the typical significance level of $0.05
 
 With a p-value of $0.6982$, which is greater than the significance level of $0.05$, **we fail to reject the null hypothesis ($\text{H}_0$)**. This means that **there is no statistically significant difference** in the average subscription duration between users who subscribe on weekdays and those who subscribe on weekends.
 
+**Welch's t-test Notebook**
+
+Access the full Welch's t-test analysis, including data loading, test execution, and interpretation, by viewing the notebook on GitHub or launching it in Google Colab:
+
+[**View Welch's t-test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/Welchs_test.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/Welchs_test.ipynb)
+
 ---
 
 ### Sub-task 3: Comparison of Subscription Duration by Region
@@ -68,6 +84,14 @@ Due to violations of both the normality assumption (in some key regions) and, mo
 **Conclusion:**
 
 Since the p-value ($0.4404$) is greater than the significance level of $0.05$, **we fail to reject the null hypothesis ($\text{H}_0$)**. Therefore, there is **no statistically significant difference** in the median subscription duration between the regions.
+
+**Kruskal-Wallis Test Notebook**
+
+For a detailed walkthrough of the Kruskal-Wallis test, including code execution and results, view the notebook on GitHub or open it directly in Google Colab:
+
+[**View Kruskal-Wallis Test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/Kruskal_Wallis_test.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/Kruskal_Wallis_test.ipynb)
 
 ---
 
