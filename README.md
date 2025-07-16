@@ -33,9 +33,9 @@ Since the p-value ($0.000$) is less than the typical significance level of $0.05
 
 Explore the Mann-Whitney U test analysis, including data preparation, test execution, and conclusions, by viewing this notebook on GitHub or opening it in Google Colab:
 
-[**View Mann-Whitney U Test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/Mann_Whitney_test.ipynb)
+[**View Mann-Whitney U Test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/mann_whitney_test.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/Mann_Whitney_test.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/mann_whitney_test.ipynb)
 
 ---
 
@@ -61,9 +61,9 @@ With a p-value of $0.6982$, which is greater than the significance level of $0.0
 
 Access the full Welch's t-test analysis, including data loading, test execution, and interpretation, by viewing the notebook on GitHub or launching it in Google Colab:
 
-[**View Welch's t-test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/Welchs_test.ipynb)
+[**View Welch's t-test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/welchs_test.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/Welchs_test.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/welchs_test.ipynb)
 
 ---
 
@@ -89,9 +89,9 @@ Since the p-value ($0.4404$) is greater than the significance level of $0.05$, *
 
 For a detailed walkthrough of the Kruskal-Wallis test, including code execution and results, view the notebook on GitHub or open it directly in Google Colab:
 
-[**View Kruskal-Wallis Test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/Kruskal_Wallis_test.ipynb)
+[**View Kruskal-Wallis Test Notebook on GitHub**](https://github.com/margarytaz/ab-test/blob/main/notebooks/kruskal_wallis_test.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/Kruskal_Wallis_test.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margarytaz/ab-test/blob/main/notebooks/kruskal_wallis_test.ipynb)
 
 ---
 
