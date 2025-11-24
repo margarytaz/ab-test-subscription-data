@@ -1,6 +1,6 @@
 # 🧪 A/B Test Analysis
 
-This project presents a comprehensive A/B testing analysis conducted using **Python scripts** to uncover key factors influencing user subscription duration in a given dataset. The primary objective was to identify statistically significant differences in user subscription durations across various user segments. The analysis focuses on understanding how user characteristics such as device `category` (mobile vs. desktop), `subscription_start_day` (weekday vs. weekend), and geographical `region` impact the length of user subscriptions. Testing specific hypotheses, this project aims to provide data-driven recommendations for improving overall subscription longevity.
+The project presents a comprehensive A/B testing analysis conducted using **Python scripts** to uncover key factors influencing user subscription duration in a given dataset. The primary objective was to identify statistically significant differences in user subscription durations across various user segments. The analysis focuses on understanding how user characteristics such as device `category` (mobile vs. desktop), `subscription_start_day` (weekday vs. weekend), and geographical `region` impact the length of user subscriptions. Testing specific hypotheses, this project aims to provide data-driven recommendations for improving overall subscription longevity.
 
 ---
 
